@@ -1,0 +1,11 @@
+signUp: Reģistrēties
+resetPassword: Atiestatīt Paroli
+mail: Pasts
+invalid: Nederīgs
+code: Verifikācijas Kods
+accountExist: Šis konts jau pastāv, lūdzu, piesakieties tieši
+accountNotExist: Konts Neeksistē, Lūdzu, Vispirms Reģistrējieties
+passwordError: Parole ir nepareiza, ja to aizmirstat, varat to atiestatīt.
+mailUsed: Šo e-pasta adresi jau izmanto cits konts
+modifyMail: Mainīt E-pastu
+banMail: Ir aizliegts reģistrēties ar vienreiz lietojamu e-pasta adresi

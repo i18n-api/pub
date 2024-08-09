@@ -1,0 +1,11 @@
+signUp: Hasaba Al
+resetPassword: Paroly Täzeden Düzmek
+mail: Poçta
+invalid: Nädogry
+code: Barlag Kody
+accountExist: Bu hasap eýýäm bar, göni giriň
+accountNotExist: Hasap ýok, ilki bilen hasaba alynmagyňyzy haýyş edýäris
+passwordError: Paroly ýalňyş bolsa, ýatdan çykarsaň, täzeden düzüp bilersiň.
+mailUsed: Bu e-poçta salgysy eýýäm başga bir hasap tarapyndan ulanylýar
+modifyMail: E-poçta Üýtgediň
+banMail: Bir gezek ulanylýan e-poçta salgysy bilen hasaba durmak gadagandyr

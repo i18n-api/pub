@@ -1,0 +1,11 @@
+signUp: Skrá Sig
+resetPassword: Endur Stilla Lykilorð
+mail: Póstur
+invalid: Ógild
+code: Staðfestingarkóði
+accountExist: Þessi reikningur er þegar til, vinsamlegast skráðu þig inn beint
+accountNotExist: Reikningurinn er ekki til, vinsamlegast skráðu þig fyrst
+passwordError: Lykilorðið er rangt Ef þú gleymir því geturðu endurstillt það.
+mailUsed: Þetta netfang er þegar notað af öðrum reikningi
+modifyMail: Breyta Tölvupósti
+banMail: Það er bannað að skrá sig með einnota netfangi

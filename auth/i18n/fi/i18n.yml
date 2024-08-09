@@ -1,0 +1,11 @@
+signUp: Rekisteröidy
+resetPassword: Nollaa Salasana
+mail: Mail
+invalid: Virheellinen
+code: Vahvistuskoodi
+accountExist: Tämä tili on jo olemassa, kirjaudu sisään suoraan
+accountNotExist: Tiliä ei ole olemassa, rekisteröidy ensin
+passwordError: Salasana on väärä, jos unohdat sen, voit nollata sen.
+mailUsed: Tämä sähköpostiosoite on jo toisen tilin käytössä
+modifyMail: Muokkaa Sähköpostia
+banMail: Kertakäyttöisellä Sähköpostiosoitteella Rekisteröityminen On Kielletty

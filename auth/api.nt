@@ -1,0 +1,16 @@
+# GEN BY srv/rust/sh/api.coffee . DON'T EDIT !
+authConfMeta: uid:u64→ConfMeta
+authExit: uid:u64→User
+authExitAll: →()
+authLang: →()
+authLi: →UserStateLi
+authMe: →User
+authName: uid:u64;name:String→()
+authNewMail: 🚧 uid:u64;new_mail:String→Mail
+authPasswd: fingerprint:String;account:String;passwd:String;code:String→User
+authReset: 🚧 account:String;password:String→()
+authRm: uid:u64→User
+authSet: uid:u64→User
+authSetMail: uid:u64;new_mail:String;old_code:Option<String>;new_code:String→()
+authSignUp: fingerprint:String;account:String;passwd:String;verify_code:String;name:String→Uid
+auth: 🚧 fingerprint:String;action:u8;account:String;password:String→User

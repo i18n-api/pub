@@ -1,0 +1,6 @@
+.rustcV
+bun.lockb
+_mod.rs
+.DS_Store
+target/
+node_modules/

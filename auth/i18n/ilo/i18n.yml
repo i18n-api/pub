@@ -1,0 +1,11 @@
+signUp: Irehistro
+resetPassword: I-reset Ti Password
+mail: Koreo
+invalid: Saan A Mabalin
+code: Kodigo Ti Panangipaneknek
+accountExist: Daytoy nga account ket addan, pangngaasiyo ta direkta nga aglog-inkayo
+accountNotExist: Awan ti account, pangngaasiyo ta agparehistrokayo nga umuna
+passwordError: Di umiso ti password. No malipatanmo, mabalinmo nga i-reset.
+mailUsed: Daytoy nga email address ket us-usarenen ti sabali nga account
+modifyMail: Baliwan Ti Email
+banMail: Maiparit ti agparehistro iti disposable email address

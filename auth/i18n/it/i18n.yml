@@ -1,0 +1,11 @@
+signUp: Registrati
+resetPassword: Resetta La Password
+mail: Posta
+invalid: Non Valido
+code: Codice Di Verifica
+accountExist: Questo account esiste già, accedi direttamente
+accountNotExist: L'account Non Esiste, Registrati Prima
+passwordError: La password è sbagliata. Se la dimentichi, puoi reimpostarla.
+mailUsed: Questo indirizzo email è già utilizzato da un altro account
+modifyMail: Modifica E-mail
+banMail: È vietato registrarsi con un indirizzo email usa e getta

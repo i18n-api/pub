@@ -1,0 +1,11 @@
+signUp: Regisztráció
+resetPassword: Jelszó Visszaállítása
+mail: Levél
+invalid: Érvénytelen
+code: Ellenőrző Kód
+accountExist: Ez a fiók már létezik, kérjük, jelentkezzen be közvetlenül
+accountNotExist: A fiók nem létezik, először regisztráljon
+passwordError: A jelszó rossz, ha elfelejti, visszaállíthatja.
+mailUsed: Ezt az e-mail címet már használja egy másik fiók
+modifyMail: E-mail Módosítása
+banMail: Eldobható Email Címmel Regisztrálni Tilos

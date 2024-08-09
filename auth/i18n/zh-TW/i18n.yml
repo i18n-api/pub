@@ -1,0 +1,11 @@
+signUp: 注冊
+resetPassword: 重設密碼
+mail: 郵箱
+invalid: 無效
+code: 驗证碼
+accountExist: 該帳號已存在，請直接登錄
+accountNotExist: 帳號不存在，請先注冊
+passwordError: 密碼錯誤，如忘記可重設
+mailUsed: 該郵箱已被其他賬戶使用
+modifyMail: 修改郵箱
+banMail: 禁止用一次性郵箱注冊

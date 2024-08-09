@@ -1,0 +1,11 @@
+signUp: 登録する
+resetPassword: パスワードを再設定する
+mail: 郵便
+invalid: 無効
+code: 検証コード
+accountExist: このアカウントはすでに存在します。直接ログインしてください
+accountNotExist: アカウントは存在しません。まず登録してください
+passwordError: パスワードが間違っている場合は、リセットできます。
+mailUsed: このメール アドレスはすでに別のアカウントで使用されています
+modifyMail: 電子メールを変更する
+banMail: 使い捨てメールアドレスでの登録は禁止です

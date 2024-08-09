@@ -1,0 +1,11 @@
+signUp: Daftar
+resetPassword: Mengatur Ulang Kata Sandi
+mail: Surat
+invalid: Tidak Sah
+code: Kode Verifikasi
+accountExist: Akun ini sudah ada, silahkan langsung login
+accountNotExist: Akun belum ada, silahkan daftar terlebih dahulu
+passwordError: Kata sandi salah. Jika Anda lupa, Anda dapat mengatur ulang.
+mailUsed: Alamat email ini sudah digunakan oleh akun lain
+modifyMail: Ubah Email
+banMail: Dilarang mendaftar dengan alamat email sekali pakai

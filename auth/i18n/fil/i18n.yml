@@ -1,0 +1,11 @@
+signUp: Magparehistro
+resetPassword: I-reset Ang Password
+mail: Mail
+invalid: Hindi Wasto
+code: Verification Code
+accountExist: Umiiral na ang account na ito, mangyaring mag-log in nang direkta
+accountNotExist: Ang account ay hindi umiiral, mangyaring magrehistro muna
+passwordError: Mali ang password Kung nakalimutan mo ito, maaari mo itong i-reset.
+mailUsed: Ang email address na ito ay ginagamit na ng ibang account
+modifyMail: Baguhin Ang Email
+banMail: Ipinagbabawal na magparehistro gamit ang isang disposable email address

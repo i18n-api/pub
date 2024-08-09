@@ -1,0 +1,11 @@
+signUp: Registre
+resetPassword: Réinitialiser Le Mot De Passe
+mail: Mail
+invalid: Invalide
+code: Le Code De Vérification
+accountExist: Ce compte existe déjà, veuillez vous connecter directement
+accountNotExist: Le compte n'existe pas, veuillez d'abord vous inscrire
+passwordError: Le mot de passe est erroné. Si vous l'oubliez, vous pouvez le réinitialiser.
+mailUsed: Cette adresse email est déjà utilisée par un autre compte
+modifyMail: Modifier L'e-mail
+banMail: Il est interdit de s'inscrire avec une adresse email jetable

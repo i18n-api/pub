@@ -1,0 +1,11 @@
+signUp: መመዝገብ
+resetPassword: የይለፍ ቃል ዳግም አስጀምር
+mail: ደብዳቤ
+invalid: ልክ ያልሆነ
+code: የማረጋገጫ የሚስጥር ቁጥር
+accountExist: ይህ መለያ አስቀድሞ አለ፣ እባክዎ በቀጥታ ይግቡ
+accountNotExist: መለያው የለም፣ እባክዎ መጀመሪያ ይመዝገቡ
+passwordError: የይለፍ ቃሉ የተሳሳተ ነው ከረሱት, እንደገና ማስጀመር ይችላሉ.
+mailUsed: ይህ ኢሜይል አድራሻ አስቀድሞ በሌላ መለያ ጥቅም ላይ ውሏል
+modifyMail: ኢሜይል ቀይር
+banMail: በሚጣል የኢሜል አድራሻ መመዝገብ የተከለከለ ነው።

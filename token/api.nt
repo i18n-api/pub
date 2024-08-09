@@ -1,0 +1,6 @@
+# GEN BY srv/rust/sh/api.coffee . DON'T EDIT !
+tokenNew: name:String→Token
+tokenRefresh: token_id:u64→Sk
+tokenRm: token_id:u64→()
+tokenTurn: id:u64;enable:i8→()
+token: →TokenLi

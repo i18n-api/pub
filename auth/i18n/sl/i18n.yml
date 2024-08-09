@@ -1,0 +1,11 @@
+signUp: Register
+resetPassword: Ponastavitev Gesla
+mail: Pošta
+invalid: Neveljaven
+code: Koda Za Preverjanje
+accountExist: Ta račun že obstaja, prijavite se neposredno
+accountNotExist: Račun ne obstaja, najprej se registrirajte
+passwordError: Geslo je napačno, če ga pozabite, ga lahko ponastavite.
+mailUsed: Ta e-poštni naslov že uporablja drug račun
+modifyMail: Spremeni E-pošto
+banMail: Prepovedana je registracija z e-poštnim naslovom za enkratno uporabo

@@ -1,0 +1,11 @@
+signUp: Tilmeld
+resetPassword: Nulstille Kodeord
+mail: Post
+invalid: Ugyldig
+code: Verifikationskode
+accountExist: Denne konto eksisterer allerede, log venligst direkte ind
+accountNotExist: Kontoen eksisterer ikke, tilmeld dig først
+passwordError: Adgangskoden er forkert Hvis du glemmer den, kan du nulstille den.
+mailUsed: Denne e-mailadresse bruges allerede af en anden konto
+modifyMail: Rediger E-mail
+banMail: Det er forbudt at registrere sig med en engangs-e-mailadresse

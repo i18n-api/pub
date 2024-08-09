@@ -1,0 +1,11 @@
+signUp: Registrovať
+resetPassword: Obnoviť Heslo
+mail: Mail
+invalid: Neplatný
+code: Overovací Kód
+accountExist: Tento účet už existuje, prihláste sa prosím priamo
+accountNotExist: Účet Neexistuje, Najskôr Sa Zaregistrujte
+passwordError: Heslo je nesprávne, ak ho zabudnete, môžete ho resetovať.
+mailUsed: Túto e-mailovú adresu už používa iný účet
+modifyMail: Upraviť E-mail
+banMail: Je zakázané registrovať sa s jednorazovou e-mailovou adresou

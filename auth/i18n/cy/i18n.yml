@@ -1,0 +1,11 @@
+signUp: Cofrestr
+resetPassword: Ailosod Cyfrinair
+mail: Post
+invalid: Annilys
+code: Cod Dilysu
+accountExist: Mae'r cyfrif hwn yn bodoli eisoes, mewngofnodwch yn uniongyrchol
+accountNotExist: Nid yw'r cyfrif yn bodoli, cofrestrwch yn gyntaf
+passwordError: Mae'r cyfrinair yn anghywir. Os byddwch chi'n ei anghofio, gallwch chi ei ailosod.
+mailUsed: Mae'r cyfeiriad e-bost hwn eisoes yn cael ei ddefnyddio gan gyfrif arall
+modifyMail: Addasu E-bost
+banMail: Gwaherddir cofrestru gyda chyfeiriad e-bost tafladwy

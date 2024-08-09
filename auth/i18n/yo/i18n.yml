@@ -1,0 +1,11 @@
+signUp: Forukọsilẹ
+resetPassword: Tun Ọrọigbaniwọle Pada
+mail: Meeli
+invalid: Aiṣedeede
+code: Kodu Afimo
+accountExist: Iwe akọọlẹ yii ti wa tẹlẹ, jọwọ wọle taara
+accountNotExist: Iwe akọọlẹ naa ko si, jọwọ forukọsilẹ ni akọkọ
+passwordError: Ọrọigbaniwọle ko tọ Ti o ba gbagbe, o le tunto.
+mailUsed: Adirẹsi imeeli yii ti jẹ lilo tẹlẹ nipasẹ akọọlẹ miiran
+modifyMail: Ṣe Atunṣe Imeeli
+banMail: O jẹ ewọ lati forukọsilẹ pẹlu adirẹsi imeeli isọnu

@@ -1,0 +1,11 @@
+signUp: Bhalisa
+resetPassword: Phinda Umisele Igama Lokugqithisa
+mail: Imeyile
+invalid: Ayisebenzi
+code: Gqina Ikhowudi
+accountExist: Le akhawunti sele ikhona, nceda ungene ngqo
+accountNotExist: I-akhawunti Ayikho, Nceda Ubhalise Kuqala
+passwordError: Igama Eligqithisiweyo Alilunganga.
+mailUsed: Le dilesi ye-imeyile sele isetyenziswa yenye iakhawunti
+modifyMail: Guqula I-imeyile
+banMail: Akuvumelekanga Ukubhalisa Ngedilesi Ye-imeyile Elahlayo

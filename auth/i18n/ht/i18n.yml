@@ -1,0 +1,11 @@
+signUp: Enskri
+resetPassword: Reyajiste Modpas
+mail: Mail
+invalid: Envalid
+code: Kòd Verifikasyon
+accountExist: Kont sa a deja egziste, tanpri konekte dirèkteman
+accountNotExist: Kont lan pa egziste, tanpri enskri dabò
+passwordError: Modpas la mal si ou bliye li, ou ka reset li.
+mailUsed: Adrès imel sa a deja itilize pa yon lòt kont
+modifyMail: Modifye Imel
+banMail: Li entèdi pou anrejistre ak yon adrès imel jetab

@@ -1,0 +1,11 @@
+signUp: Register
+resetPassword: Wachtwoord Opnieuw Instellen
+mail: Mail
+invalid: Ongeldig
+code: Verificatie Code
+accountExist: Dit account bestaat al, log direct in
+accountNotExist: Het account bestaat niet, registreer u eerst
+passwordError: Het wachtwoord is verkeerd. Als u het vergeet, kunt u het opnieuw instellen.
+mailUsed: Dit e-mailadres wordt al gebruikt door een ander account
+modifyMail: E-mail Wijzigen
+banMail: Het is verboden om u te registreren met een wegwerp-e-mailadres

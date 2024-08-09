@@ -1,0 +1,11 @@
+signUp: Registreeri
+resetPassword: Lähtestage Parool
+mail: Mail
+invalid: Kehtetu
+code: Kinnituskood
+accountExist: See konto on juba olemas, logige otse sisse
+accountNotExist: Kontot pole olemas, palun registreeru esmalt
+passwordError: Parool on vale Kui unustate selle, saate selle lähtestada.
+mailUsed: Seda e-posti aadressi kasutab juba teine ​​konto
+modifyMail: Muuda E-posti
+banMail: Ühekordselt kasutatava e-posti aadressiga registreerimine on keelatud

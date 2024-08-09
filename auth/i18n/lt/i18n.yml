@@ -1,0 +1,11 @@
+signUp: Registruotis
+resetPassword: Atstatyti Slaptažodį
+mail: Paštas
+invalid: Negaliojančiais
+code: Patvirtinimo Kodas
+accountExist: Ši paskyra jau yra, prisijunkite tiesiogiai
+accountNotExist: Paskyros Nėra, Pirmiausia Užsiregistruokite
+passwordError: Slaptažodis neteisingas, jei jį pamiršite, galite jį nustatyti iš naujo.
+mailUsed: Šį el. pašto adresą jau naudoja kita paskyra
+modifyMail: Keisti El
+banMail: Draudžiama registruotis vienkartiniu el. pašto adresu

@@ -1,0 +1,11 @@
+signUp: Cláraigh
+resetPassword: Athshocrú Pasfhocal
+mail: Ríomhphost
+invalid: Neamhbhailí
+code: Cód Fíorúcháin
+accountExist: Tá an cuntas seo ann cheana, logáil isteach go díreach
+accountNotExist: Níl an cuntas ann, cláraigh ar dtús
+passwordError: Tá an focal faire mícheart. Má dhéanann tú dearmad air, is féidir leat é a athshocrú.
+mailUsed: Tá an seoladh ríomhphoist seo in úsáid ag cuntas eile cheana féin
+modifyMail: Athraigh Ríomhphost
+banMail: Tá sé toirmiscthe clárú le seoladh ríomhphoist indiúscartha

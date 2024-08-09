@@ -1,0 +1,3 @@
+CREATE TABLE `mailsubUser` (
+  `id` BIGINT UNSIGNED NOT NULL AUTO_INCREMENT,`host_id` BIGINT UNSIGNED NOT NULL,`uid` BIGINT UNSIGNED NOT NULL,PRIMARY KEY (`id`),UNIQUE KEY `host_id` (`host_id`,`uid`)
+);

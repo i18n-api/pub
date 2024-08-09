@@ -1,0 +1,11 @@
+signUp: 注册
+resetPassword: 重设密码
+mail: 邮箱
+invalid: 无效
+code: 验证码
+accountExist: 该帐号已存在，请直接登录
+accountNotExist: 帐号不存在，请先注册
+passwordError: 密码错误，如忘记可重设
+mailUsed: 该邮箱已被其他账户使用
+modifyMail: 修改邮箱
+banMail: 禁止用一次性邮箱注册

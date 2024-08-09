@@ -1,0 +1,11 @@
+signUp: Registri
+resetPassword: Restarigi Pasvorton
+mail: Poŝto
+invalid: Nevalida
+code: Konfirmkodo
+accountExist: Ĉi tiu konto jam ekzistas, bonvolu ensaluti rekte
+accountNotExist: La konto ne ekzistas, bonvolu registriĝi unue
+passwordError: La pasvorto estas malĝusta Se vi forgesas ĝin, vi povas restarigi ĝin.
+mailUsed: Ĉi tiu retadreso jam estas uzata de alia konto
+modifyMail: Modifi Retpoŝton
+banMail: Estas malpermesite registriĝi kun forĵetebla retadreso

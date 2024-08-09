@@ -1,0 +1,11 @@
+signUp: Rejista
+resetPassword: Reset Password
+mail: Mail
+invalid: Invalid
+code: Verification Code
+accountExist: Iyi account yatovepo, ndapota pinda zvakananga
+accountNotExist: Iyo account haipo, ndapota nyoresa kutanga
+passwordError: Iyo pasiwedhi haina kunaka kana ukaikanganwa, unogona kuigadzirisa.
+mailUsed: Iyi kero yeemail yatoshandiswa neimwe account
+modifyMail: Shandura Email
+banMail: Zvinorambidzwa kunyoresa nekero ye email inoraswa

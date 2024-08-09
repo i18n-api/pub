@@ -1,0 +1,11 @@
+signUp: Qeydiyyatdan Keçin
+resetPassword: Parolu Sıfırlamak
+mail: Poçt
+invalid: Etibarsızdır
+code: Yoxlama Kodu
+accountExist: Bu hesab artıq mövcuddur, lütfən, birbaşa daxil olun
+accountNotExist: Hesab mövcud deyil, əvvəlcə qeydiyyatdan keçin
+passwordError: Parol səhvdir, əgər onu unutsanız, onu sıfırlaya bilərsiniz.
+mailUsed: Bu e-poçt ünvanı artıq başqa hesab tərəfindən istifadə olunur
+modifyMail: E-poçtu Dəyişdirin
+banMail: Birdəfəlik elektron poçt ünvanı ilə qeydiyyatdan keçmək qadağandır

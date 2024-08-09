@@ -1,0 +1,11 @@
+signUp: Mendaftar
+resetPassword: Menetapkan Semula Kata Laluan
+mail: Mel
+invalid: Tidak Sah
+code: Kod Pengesahan
+accountExist: Akaun ini sudah wujud, sila log masuk terus
+accountNotExist: Akaun tidak wujud, sila daftar dahulu
+passwordError: Kata laluan salah Jika anda terlupa, anda boleh menetapkannya semula.
+mailUsed: Alamat e-mel ini telah digunakan oleh akaun lain
+modifyMail: Ubah Suai E-mel
+banMail: Dilarang mendaftar dengan alamat e-mel pakai buang

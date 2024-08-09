@@ -1,0 +1,11 @@
+signUp: Registreer
+resetPassword: Herstel Wagwoord
+mail: Pos
+invalid: Ongeldig
+code: Verifikasiekode
+accountExist: Hierdie rekening bestaan ​​reeds, meld asseblief direk aan
+accountNotExist: Die rekening bestaan ​​nie, registreer asseblief eers
+passwordError: Die wagwoord is verkeerd As jy dit vergeet, kan jy dit terugstel.
+mailUsed: Hierdie e-posadres word reeds deur 'n ander rekening gebruik
+modifyMail: Wysig E-pos
+banMail: Dit is verbode om met 'n weggooibare e-posadres te registreer

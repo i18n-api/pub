@@ -1,0 +1,6 @@
+CREATE FUNCTION `payIndex`(`uid` BIGINT UNSIGNED,`begin` MEDIUMINT,`end` MEDIUMINT) RETURNS MEDIUMBLOB
+BEGIN
+RETURN JSON_ARRAY(
+(SELECT COALESCE((SELECT n FROM payCash WHERE id=uid),0)),(SELECT JSON_ARRAYAGG(JSON_ARRAY(cid,kid,rid,day,n)) FROM payBill WHERE payBill.uid=uid AND day>=begin AND day<end)
+);
+END ;;

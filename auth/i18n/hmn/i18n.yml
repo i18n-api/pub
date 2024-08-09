@@ -1,0 +1,11 @@
+signUp: Sau Npe
+resetPassword: Rov Pib Dua Password
+mail: Xa Ntawv
+invalid: Tsis Raug
+code: Pov Thawj Code
+accountExist: Tus account no twb muaj lawm, thov nkag mus ncaj qha
+accountNotExist: Tus account tsis muaj nyob, thov sau npe ua ntej
+passwordError: Tus password tsis raug yog tias koj tsis nco qab, koj tuaj yeem rov pib dua.
+mailUsed: Qhov chaw nyob email no twb tau siv los ntawm lwm tus account
+modifyMail: Hloov Kho Email
+banMail: Nws yog txwv tsis pub sau npe nrog tus email chaw nyob

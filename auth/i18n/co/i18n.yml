@@ -1,0 +1,11 @@
+signUp: Registrà
+resetPassword: Resetten Password
+mail: Mail
+invalid: Invalidu
+code: Codice Di Verificazione
+accountExist: Stu contu esiste digià, per piacè accede direttamente
+accountNotExist: U contu ùn esiste micca, per piacè registrate prima
+passwordError: A password hè sbagliata Se ti scurdate, pudete resettallu.
+mailUsed: Stu indirizzu email hè digià utilizatu da un altru contu
+modifyMail: Mudificà L'email
+banMail: Hè pruibitu di registrà cù un indirizzu email dispunibile

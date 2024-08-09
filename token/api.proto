@@ -1,0 +1,21 @@
+syntax = "proto3";
+
+package api;
+
+message Token
+{
+  uint64 id = 1;
+  string name = 2;
+  string sk = 3;
+  bool enable = 4;
+}
+
+message TokenLi
+{
+  repeated Token li = 1;
+}
+
+message Sk
+{
+  string v = 1;
+}

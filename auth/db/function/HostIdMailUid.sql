@@ -1,0 +1,11 @@
+CREATE FUNCTION `authHostIdMailUid`(`hostId` BIGINT UNSIGNED,`mail` VARBINARY(255)) RETURNS BIGINT UNSIGNED
+BEGIN
+  DECLARE mailId BIGINT UNSIGNED;
+  DECLARE uid BIGINT UNSIGNED;
+  SELECT authMailId(mail) INTO mailId;
+  IF mailId IS NULL THEN
+    RETURN NULL;
+  END IF;
+  SELECT id INTO uid FROM authUidMail t WHERE t.authMailId=mailId AND t.hostId=hostId;
+  RETURN uid;
+END ;;

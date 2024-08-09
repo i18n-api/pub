@@ -1,0 +1,2 @@
+# GEN BY srv/rust/sh/api.coffee . DON'T EDIT !
+webpush: endpoint:String;auth:String;p256dh:String;lang:String→()

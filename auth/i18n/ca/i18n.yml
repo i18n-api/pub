@@ -1,0 +1,11 @@
+signUp: Registrar-se
+resetPassword: Restablir La Contrasenya
+mail: Correu
+invalid: Invàlid
+code: Codi De Verificació
+accountExist: Aquest compte ja existeix, inicieu sessió directament
+accountNotExist: El compte no existeix, registreu-vos primer
+passwordError: La contrasenya és incorrecta si l'oblides, la pots restablir.
+mailUsed: Aquesta adreça de correu electrònic ja la fa servir un altre compte
+modifyMail: Modifica El Correu Electrònic
+banMail: Està prohibit registrar-se amb una adreça de correu electrònic d'un sol ús

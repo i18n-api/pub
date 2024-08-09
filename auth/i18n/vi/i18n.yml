@@ -1,0 +1,11 @@
+signUp: Đăng Ký
+resetPassword: Đặt Lại Mật Khẩu
+mail: Thư
+invalid: Không Hợp Lệ
+code: Mã Xác Nhận
+accountExist: Tài khoản này đã tồn tại, vui lòng đăng nhập trực tiếp
+accountNotExist: Tài khoản không tồn tại, vui lòng đăng ký trước
+passwordError: Mật khẩu sai nếu bạn quên, bạn có thể đặt lại.
+mailUsed: Địa chỉ email này đã được sử dụng bởi một tài khoản khác
+modifyMail: Sửa Đổi Email
+banMail: Cấm đăng ký bằng địa chỉ email dùng một lần

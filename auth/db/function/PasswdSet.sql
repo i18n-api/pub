@@ -1,0 +1,5 @@
+CREATE FUNCTION `authPasswdSet`(id BIGINT UNSIGNED,hash BINARY(16),ts BIGINT UNSIGNED) RETURNS TINYINT
+BEGIN
+    INSERT INTO authPasswd (id,hash,ts) VALUES (id,hash,ts) ON DUPLICATE KEY UPDATE hash = VALUES(hash),ts = VALUES(ts);
+    RETURN NULL;
+END ;;

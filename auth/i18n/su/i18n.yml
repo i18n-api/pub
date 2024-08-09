@@ -1,0 +1,11 @@
+signUp: Ngadaptar
+resetPassword: Reset Sandi
+mail: Surat
+invalid: Teu Sah
+code: Kodeu Vérifikasi
+accountExist: Akun ieu parantos aya, mangga lebet langsung
+accountNotExist: Rekening teu aya, mangga daftar heula
+passwordError: Sandi lepat Upami anjeun hilap, anjeun tiasa ngareset.
+mailUsed: Alamat surélék ieu geus dipaké ku akun séjén
+modifyMail: Ngarobah Surelek
+banMail: Dilarang ngadaptar sareng alamat email anu tiasa dianggo

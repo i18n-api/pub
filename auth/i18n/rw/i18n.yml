@@ -1,0 +1,11 @@
+signUp: Kwiyandikisha
+resetPassword: Gusubiramo Ijambo Ryibanga
+mail: Ibaruwa
+invalid: Bitemewe
+code: Kode Yo Kugenzura
+accountExist: Iyi konti isanzweho, nyamuneka injira mu buryo butaziguye
+accountNotExist: Konti ntabwo ibaho, nyamuneka iyandikishe mbere
+passwordError: Ijambobanga ryibeshye Niba ubyibagiwe, urashobora gusubiramo.
+mailUsed: Iyi imeri imeri isanzwe ikoreshwa nindi konte
+modifyMail: Hindura Imeri
+banMail: Birabujijwe kwiyandikisha hamwe na aderesi imeri

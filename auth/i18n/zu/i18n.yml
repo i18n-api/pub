@@ -1,0 +1,11 @@
+signUp: Bhalisa
+resetPassword: Setha Kabusha Iphasiwedi
+mail: Imeyili
+invalid: Okungavumelekile
+code: Ikhodi Yokuqinisekisa
+accountExist: Le akhawunti isivele ikhona, sicela ungene ngokuqondile
+accountNotExist: I-akhawunti Ayikho, Sicela Ubhalise Kuqala
+passwordError: Iphasiwedi ayilungile Uma uyikhohlwa, ungayisetha kabusha.
+mailUsed: Leli kheli le-imeyili selivele lisetshenziswa enye i-akhawunti
+modifyMail: Lungisa I-imeyili
+banMail: Akuvunyelwe Ukubhalisa Ngekheli Le-imeyili Elilahlwayo

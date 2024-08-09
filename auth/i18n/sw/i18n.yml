@@ -1,0 +1,11 @@
+signUp: Kujiandikisha
+resetPassword: Weka Upya Nenosiri
+mail: Barua
+invalid: Batili
+code: Nambari Ya Uthibitishaji
+accountExist: Akaunti hii tayari ipo, tafadhali ingia moja kwa moja
+accountNotExist: Akaunti Haipo, Tafadhali Jisajili Kwanza
+passwordError: Nenosiri si sahihi Ukilisahau, unaweza kuliweka upya.
+mailUsed: Barua pepe hii tayari inatumiwa na akaunti nyingine
+modifyMail: Rekebisha Barua Pepe
+banMail: Ni marufuku kujiandikisha na anwani ya barua pepe inayoweza kutolewa

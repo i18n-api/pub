@@ -1,0 +1,11 @@
+signUp: Jirreġistra
+resetPassword: Reset Password
+mail: Posta
+invalid: Invalidu
+code: Kodiċi Ta' Verifika
+accountExist: Dan il-kont diġà jeżisti, jekk jogħġbok idħol direttament
+accountNotExist: Il-kont ma jeżistix, jekk jogħġbok irreġistra l-ewwel
+passwordError: Il-password hija ħażina Jekk tinsaha, tista’ terġa’ tissettjaha.
+mailUsed: Dan l-indirizz elettroniku huwa diġà użat minn kont ieħor
+modifyMail: Immodifika L-email
+banMail: Huwa pprojbit li tirreġistra b'indirizz elettroniku li jintremew

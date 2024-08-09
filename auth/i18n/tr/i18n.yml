@@ -1,0 +1,11 @@
+signUp: Kayıt Olmak
+resetPassword: Şifreyi Yenile
+mail: Posta
+invalid: Geçersiz
+code: Doğrulama Kodu
+accountExist: Bu hesap zaten mevcut, lütfen doğrudan giriş yapın
+accountNotExist: Hesap mevcut değil, lütfen önce kaydolun
+passwordError: Şifre Yanlıştır, Unutursanız Sıfırlayabilirsiniz.
+mailUsed: Bu e-posta adresi zaten başka bir hesap tarafından kullanılıyor
+modifyMail: E-postayı Değiştir
+banMail: Tek kullanımlık e-posta adresiyle kayıt olmak yasaktır

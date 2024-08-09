@@ -1,0 +1,11 @@
+signUp: Ndhaftar
+resetPassword: Ngreset Sandi
+mail: Layang
+invalid: Ora Sah
+code: Kode Verifikasi
+accountExist: Akun iki wis ana, mangga log in langsung
+accountNotExist: Akun ora ana, mangga ndhaftar dhisik
+passwordError: Sandi salah yen sampeyan lali, sampeyan bisa ngreset.
+mailUsed: Alamat email iki wis digunakake dening akun liyane
+modifyMail: Ngowahi Email
+banMail: Dilarang ndhaptar nganggo alamat email sing bisa digunakake

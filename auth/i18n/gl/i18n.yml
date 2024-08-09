@@ -1,0 +1,11 @@
+signUp: Rexistrarse
+resetPassword: Restablecer O Contrasinal
+mail: Correo
+invalid: Non Válido
+code: Código De Verificación
+accountExist: Esta conta xa existe, inicia sesión directamente
+accountNotExist: A conta non existe, primeiro rexístrese
+passwordError: O contrasinal é incorrecto Se o esqueces, podes restablecelo.
+mailUsed: Este enderezo de correo electrónico xa o utiliza outra conta
+modifyMail: Modificar Correo Electrónico
+banMail: Está prohibido rexistrarse cun enderezo de correo electrónico desbotable

@@ -1,0 +1,11 @@
+signUp: Inregistreaza-te
+resetPassword: Reseteaza Parola
+mail: Poștă
+invalid: Invalid
+code: Cod De Verificare
+accountExist: Acest cont există deja, vă rugăm să vă conectați direct
+accountNotExist: Contul nu există, vă rugăm să vă înregistrați mai întâi
+passwordError: Parola este greșită dacă o uitați, o puteți reseta.
+mailUsed: Această adresă de e-mail este deja utilizată de un alt cont
+modifyMail: Modificați E-mailul
+banMail: Este interzisă înregistrarea cu o adresă de e-mail de unică folosință

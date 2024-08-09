@@ -1,0 +1,11 @@
+signUp: Magparehistro
+resetPassword: I-reset Ang Password
+mail: Mail
+invalid: Dili Balido
+code: Verification Code
+accountExist: Kini nga account anaa na, palihug log in direkta
+accountNotExist: Wala ang account, palihug magparehistro una
+passwordError: Sayop ang password Kung makalimtan nimo kini, mahimo nimo kini i-reset.
+mailUsed: Kini nga email address gigamit na sa laing account
+modifyMail: Usba Ang Email
+banMail: Gidili ang pagparehistro gamit ang usa ka disposable email address

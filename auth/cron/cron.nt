@@ -1,0 +1,3 @@
+# run every mintues ; timeout mintues
+banTld.coffee: 10081 5
+# banTld.coffee: 60 5

@@ -1,0 +1,11 @@
+signUp: Ngodisa
+resetPassword: Tsosolosa Password
+mail: Lengolo-tsoibila
+invalid: Fosahetse
+code: Nomoro Ea Netefatso
+accountExist: Ak'haonte ena e se e ntse e le teng, ka kopo, kena ka kotloloho
+accountNotExist: Ak'haonte ha e eo, ka kopo ingolise pele
+passwordError: Phasewete e fosahetse Haeba o ka e lebala, o ka e hlophisa bocha.
+mailUsed: Aterese ena ea lengolo-tsoibila e se e sebelisoa ke ak'haonte e 'ngoe
+modifyMail: Fetola Lengolo-tsoibila
+banMail: Ho thibetsoe ho ingolisa ka aterese ea lengolo-tsoibila e lahliloeng

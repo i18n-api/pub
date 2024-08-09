@@ -1,0 +1,11 @@
+signUp: ምዝገባ
+resetPassword: ሪሰት ፓስዎርድ
+mail: ፖስታ
+invalid: ዘይትኽክል
+code: ናይ ምርግጋጽ ኮድ
+accountExist: እዚ ኣካውንት ድሮ ኣሎ፡ በጃኹም ብቐጥታ እቶ
+accountNotExist: እቲ ኣካውንት የለን መጀመርታ ተመዝገቡ።
+passwordError: እቲ ፓስዎርድ ጌጋ እዩ እንተ ረሲዕካዮ ዳግማይ ክትሰርዖ ትኽእል ኢኻ።
+mailUsed: እዚ ኢመይል ኣድራሻ ድሮ ብኻልእ ኣካውንት ይጥቀመሉ ኣሎ።
+modifyMail: ኢመይል ኣመሓይሽ
+banMail: ብሓንሳብ ዝድርበ ኢመይል ኣድራሻ ምምዝጋብ ክልኩል እዩ።

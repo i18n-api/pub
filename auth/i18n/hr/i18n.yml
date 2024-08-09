@@ -1,0 +1,11 @@
+signUp: Registar
+resetPassword: Resetiranje Lozinke
+mail: Pošta
+invalid: Nevaljan
+code: Kontrolni Kod
+accountExist: Ovaj račun već postoji, prijavite se izravno
+accountNotExist: Račun ne postoji, prvo se registrirajte
+passwordError: Lozinka je pogrešna, ako je zaboravite, možete je ponovno postaviti.
+mailUsed: Ovu adresu e-pošte već koristi drugi račun
+modifyMail: Izmjena E-pošte
+banMail: Zabranjeno je registrirati se s jednokratnom e-mail adresom
