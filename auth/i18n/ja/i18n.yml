@@ -1,0 +1,11 @@
+signUp: 登録
+resetPassword: パスワード再設定
+mail: メール
+invalid: 無効
+code: 認証コード
+accountExist: このアカウントは既に存在します。直接ログインしてください。
+accountNotExist: アカウントが存在しません。まず注册してください。
+passwordError: パスワードが間違っている場合は、再設定できます。
+mailUsed: このメールアドレスはすでに他のアカウントで使用されています。
+modifyMail: メールアドレスを変更する
+banMail: 一次性のメールアドレスを使用しての登録は禁止されています。

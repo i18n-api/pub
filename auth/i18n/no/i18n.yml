@@ -1,0 +1,11 @@
+signUp: Registrer
+resetPassword: Tilbakestill passord
+mail: E-post
+invalid: Ugyldig
+code: Verifiseringskode
+accountExist: Denne kontoen eksisterer allerede. Vennligst logg inn direkte.
+accountNotExist: Kontoen eksisterer ikke. Vennligst registrer deg først.
+passwordError: Passordet er feil. Hvis du har glemt det, kan du tilbakestille det.
+mailUsed: Denne e-postadressen er allerede i bruk av en annen konto.
+modifyMail: Endre e-postadresse
+banMail: Det er ikke tillatt å registrere seg med en midlertidig e-postadresse.

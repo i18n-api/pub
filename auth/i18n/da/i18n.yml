@@ -1,0 +1,11 @@
+signUp: Registrer
+resetPassword: Nulstil adgangskode
+mail: E-mail
+invalid: Ugyldig
+code: Bekræftelseskode
+accountExist: Denne konto findes allerede - log venligst direkte ind
+accountNotExist: Kontoen findes ikke - registrer dig venligst først
+passwordError: Forkert adgangskode; hvis du har glemt den, kan du nulstille den
+mailUsed: Dette emailadresse bliver allerede brugt af en anden konto
+modifyMail: Rediger emailadresse
+banMail: Registrering med en engangsemailadresse er ikke tilladt

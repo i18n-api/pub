@@ -1,0 +1,11 @@
+signUp: Đăng ký
+resetPassword: Đặt lại mật khẩu
+mail: Email
+invalid: Invalid
+code: Mã xác minh
+accountExist: Tài khoản này đã tồn tại, vui lòng đăng nhập trực tiếp.
+accountNotExist: Tài khoản không tồn tại, vui lòng đăng ký trước.
+passwordError: Mật khẩu sai, nếu quên có thể đặt lại.
+mailUsed: Email này đã được sử dụng bởi tài khoản khác.
+modifyMail: Chỉnh sửa email.
+banMail: Cấm sử dụng email tạm thời để đăng ký.

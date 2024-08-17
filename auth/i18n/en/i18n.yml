@@ -1,0 +1,11 @@
+signUp: Sign Up
+resetPassword: Reset Password
+mail: Mail
+invalid: Invalid
+code: Verification Code
+accountExist: This account already exists, please sign in directly
+accountNotExist: Account not exist, please sign up first
+passwordError: Error password. If you forget it, you can reset it.
+mailUsed: This email address is used by another account
+modifyMail: Modify Email
+banMail: Forbidden sign up with disposable email address

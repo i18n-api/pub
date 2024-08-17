@@ -1,0 +1,72 @@
+syntax = "proto3";
+
+package api;
+
+message Item
+{
+  uint32 cid = 1;
+  uint64 kid = 2;
+  uint64 rid = 3;
+  int32 day = 4;
+  int64 n = 5;
+}
+
+message Bill
+{
+  repeated Item li = 1;
+}
+
+message Cash
+{
+  int64 n = 1;
+}
+
+message Ing
+{
+  uint64 id = 1;
+  uint64 n = 2;
+}
+
+message Card
+{
+  uint64 id = 1;
+  uint32 brand_id = 2;
+  uint32 exp = 3;
+  uint32 status = 4;
+  string name = 5;
+}
+
+message Brand
+{
+  uint32 id = 1;
+  string name = 2;
+}
+
+message Setup
+{
+  string mail = 1;
+  string stripe_pk = 2;
+}
+
+message Topuped
+{
+  uint64 n = 1;
+  uint64 rate = 2;
+  uint32 status = 3;
+}
+
+message Topup
+{
+  repeated Card card_li = 1;
+  repeated Brand brand_li = 2;
+  Setup setup = 3;
+  uint64 rate = 4;
+}
+
+message BillIndex
+{
+  int64 cash = 1;
+  repeated Item li = 2;
+  repeated int32 month_li = 3;
+  repeated Ing ing = 4;
+}

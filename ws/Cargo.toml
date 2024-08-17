@@ -1,0 +1,33 @@
+[package]
+name = "ws"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+[dependencies]
+axum = { version = "0.7.5", features = ["ws"] }
+tokio = { version = "1.39.2", features = [
+  "macros",
+  "rt",
+  "rt-multi-thread",
+  "time",
+  "sync",
+] }
+client = { path = "../../../rust/lib/client" }
+futures-util = { version = "0.3", default-features = false, features = [
+  "sink",
+  "std",
+] }
+tracing = "0.1.40"
+dashmap = { version = "6.0.1", features = ["inline", "rayon"] }
+futures = "0.3.30"
+intbin = "0.1.2"
+user = { path = "../../../rust/lib/user" }
+r = { path = "../../../rust/lib/r" }
+anyhow = "1.0.86"
+radix_str = "0.1.2"
+re = "0.1.8"
+t3 = "0.1.20"
+static_init = "1.0.3"
+gxhash = "3.4.1"
+xbin = "0.1.4"

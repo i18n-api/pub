@@ -1,0 +1,11 @@
+signUp: Ro'yxatdan O'tish
+resetPassword: Parolni Tiklash
+mail: Pochta
+invalid: Yaroqsiz
+code: Tasdiq Kodi
+accountExist: Bu hisob allaqachon mavjud, to‘g‘ridan-to‘g‘ri tizimga kiring
+accountNotExist: Hisob mavjud emas, avval ro'yxatdan o'ting
+passwordError: Agar parol noto'g'ri bo'lsa, uni qayta tiklashingiz mumkin.
+mailUsed: Bu e-pochta manzili allaqachon boshqa hisob tomonidan ishlatilgan
+modifyMail: Elektron Pochtani O'zgartirish
+banMail: Bir martalik elektron pochta manzili bilan ro'yxatdan o'tish taqiqlanadi

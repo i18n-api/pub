@@ -1,0 +1,11 @@
+signUp: Register
+resetPassword: Wachtwoord herstellen
+mail: E-mail
+invalid: Ongeldig
+code: Verificatiecode
+accountExist: Dit account bestaat reeds, gelieve direct in te loggen
+accountNotExist: Er bestaat geen account, registreer u eerst
+passwordError: Het wachtwoord is onjuist; indien u het bent vergeten, kunt u het opnieuw instellen
+mailUsed: Dit e-mailadres wordt al door een ander account gebruikt
+modifyMail: E-mailadres wijzigen
+banMail: Het is verboden om zich te registreren met een tijdelijk e-mailadres

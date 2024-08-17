@@ -1,0 +1,19 @@
+[package]
+name = "manual_deposit"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+[dependencies]
+aok = "0.1.12"
+clap = { version = "4.5.16", features = ["derive"] }
+m = { path = "../../../../../rust/lib/m" }
+tokio = { version = "1.39.2", features = [
+  "macros",
+  "rt",
+  "rt-multi-thread",
+  "time",
+  "sync",
+] }
+pay = { path = "../.." }
+pay_db = { path = "../../../pay_db" }

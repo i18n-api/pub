@@ -1,0 +1,11 @@
+signUp: Regjistrohen
+resetPassword: Rivendosni Fjalëkalimin
+mail: Postë
+invalid: E Pavlefshme
+code: Kodi I Verifikimit
+accountExist: Kjo llogari ekziston tashmë, ju lutemi identifikohuni drejtpërdrejt
+accountNotExist: Llogaria nuk ekziston, ju lutemi regjistrohuni së pari
+passwordError: Fjalëkalimi është i gabuar nëse e harroni, mund ta rivendosni.
+mailUsed: Kjo adresë emaili përdoret tashmë nga një llogari tjetër
+modifyMail: Modifiko Emailin
+banMail: Është e ndaluar të regjistroheni me një adresë emaili të disponueshme

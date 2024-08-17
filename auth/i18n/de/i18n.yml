@@ -1,0 +1,11 @@
+signUp: Registrieren
+resetPassword: Passwort zurücksetzen
+mail: E-Mail
+invalid: Ungültig
+code: Verifizierungscode
+accountExist: Dieses Konto exists bereits. Bitte melden Sie sich direkt an.
+accountNotExist: Das Konto exists nicht. Bitte registrieren Sie sich vorher.
+passwordError: Das Passwort ist falsch. Bei einer Vergesslichkeit können Sie es neu einrichten.
+mailUsed: Diese E-Mail-Adresse wird bereits von einem anderen Konto genutzt.
+modifyMail: E-Mail-Adresse ändern
+banMail: Die Registrierung mit einer Einmal-E-Mail-Adresse ist untersagt.

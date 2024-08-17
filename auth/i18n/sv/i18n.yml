@@ -1,0 +1,11 @@
+signUp: Register
+resetPassword: Återställ lösenord
+mail: E-post
+invalid: Ogiltig
+code: Verifikationskod
+accountExist: Detta konto existerar redan, vänligen logga in direkt
+accountNotExist: Det finns ingen sådan användare, vänligen registrera dig först
+passwordError: Felaktigt lösenord, om du har glömt det kan du återställa det
+mailUsed: Denna e-postadress används redan av ett annat konto
+modifyMail: Ändra e-postadress
+banMail: Det är förbjudet att registrera med en engångse-postadress

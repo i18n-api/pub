@@ -1,0 +1,9 @@
+# GEN BY srv/rust/sh/api.coffee . DON'T EDIT !
+payBill: month:i32→Bill
+payBind: →Setup
+payLi: synced:u8→Topup
+payRm: id:u64→()
+paySetDefault: id:u64→()
+paySetup: →()
+payTopup: n:u64;card:u64→Topuped
+pay: →BillIndex

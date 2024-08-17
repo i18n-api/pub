@@ -1,0 +1,11 @@
+signUp: Erregistratu
+resetPassword: Pasahitza Berrezarri
+mail: Posta
+invalid: Baliogabea
+code: Egiaztapen-Kodea
+accountExist: Kontu hau dagoeneko badago, mesedez hasi saioa zuzenean
+accountNotExist: Kontua ez dago, mesedez erregistratu lehenik
+passwordError: Pasahitza oker dago ahazten baduzu, berrezarri dezakezu.
+mailUsed: Helbide elektroniko hau beste kontu batek erabiltzen du dagoeneko
+modifyMail: Aldatu Posta Elektronikoa
+banMail: Debekatuta dago erabilgarri dagoen helbide elektroniko batekin erregistratzea
