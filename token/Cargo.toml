@@ -8,21 +8,21 @@ client = { path = "../../../rust/lib/client" }
 uid_by_token = { path = "../../../rust/lib/uid_by_token" }
 m = { path = "../../../rust/lib/m" }
 r = { path = "../../../rust/lib/r" }
-prost = "0.13.1"
-vb = "0.1.5"
+prost = "0.13.3"
+vb = "0.1.8"
 ub64 = "0.0.10"
 intbin = "0.1.2"
 sts = "0.1.23"
-jarg = "0.1.8"
-re = "0.1.8"
+jarg = "0.1.9"
+re = "0.1.9"
 t3 = "0.1.20"
-aok = "0.1.12"
+aok = "0.1.15"
 sha2 = "0.10.8"
-xbin = "0.1.4"
+xbin = "0.1.6"
 
 # serde = { version = "1.0.193", features = ["derive"] }
 [build-dependencies]
-aok = "0.1.12"
-prost-build = "0.13.1"
+aok = "0.1.15"
+prost-build = "0.13.3"
 [package.metadata.cargo-machete]
 ignored = ["prost"]
