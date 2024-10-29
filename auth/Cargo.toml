@@ -10,11 +10,11 @@ r = { path = "../../../rust/lib/r" }
 email_address = "0.2.9"
 intbin = "0.1.2"
 i18n = { path = "../../../rust/lib/i18n" }
-prost = "0.13.1"
+prost = "0.13.3"
 sk = { path = "../../../rust/lib/sk" }
 util = { path = "../../../rust/lib/util" }
 m = { path = "../../../rust/lib/m" }
-tokio = { version = "1.39.2", features = [
+tokio = { version = "1.41.0", features = [
   "macros",
   "rt",
   "rt-multi-thread",
@@ -28,25 +28,25 @@ tp = { path = "../../../rust/lib/tp" }
 kfn = { path = "../../../rust/lib/kfn" }
 # serde = { version = "1.0.193", features = ["derive"] }
 xstr = "0.1.11"
-xmail = "0.1.8"
+xmail = "0.1.14"
 xtld = "0.1.3"
-vb = "0.1.5"
+vb = "0.1.8"
 trt = "0.1.29"
 ws = { path = "../ws" }
 sts = "0.1.23"
-xsmtp = "0.1.11"
-jarg = "0.1.8"
-re = "0.1.8"
+xsmtp = "0.1.13"
+jarg = "0.1.9"
+re = "0.1.9"
 t3 = "0.1.20"
-aok = "0.1.12"
+aok = "0.1.15"
 tracing = "0.1.40"
 captcha = { path = "../captcha" }
-xbin = "0.1.4"
+xbin = "0.1.6"
 
 [build-dependencies]
-prost-build = "0.13.1"
+prost-build = "0.13.3"
 captcha = { path = "../captcha" }
-aok = "0.1.12"
+aok = "0.1.15"
 client = { path = "../../../rust/lib/client" }
 arg = { path = "../../../rust/lib/arg" }
 r = { path = "../../../rust/lib/r" }

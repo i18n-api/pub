@@ -5,18 +5,18 @@ edition = "2021"
 
 [dependencies]
 auth = { path="../auth" }
-bytes = "1.7.1"
+bytes = "1.8.0"
 client = { path = "../../../rust/lib/client" }
-prost = "0.13.1"
-re = "0.1.8"
+prost = "0.13.3"
+re = "0.1.9"
 t3 = "0.1.20"
 m = { path = "../../../rust/lib/m" }
-sonic-rs = "0.3.10"
-lang = "0.1.30"
+sonic-rs = "0.3.14"
+lang = "0.1.32"
 
 [build-dependencies]
-aok = "0.1.12"
-prost-build = "0.13.1"
+aok = "0.1.15"
+prost-build = "0.13.3"
 
 [package.metadata.cargo-machete]
 ignored = ["prost"]

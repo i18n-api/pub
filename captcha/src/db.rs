@@ -12,7 +12,7 @@ use crate::api;
 pub const CAPTCHA: [u8; 8] = *b"captcha:";
 
 pub const SCALE: u32 = 2;
-pub const SIZE: u32 = 420;
+pub const SIZE: u32 = 350;
 const JS_MAX_SAFE_INTEGER: u64 = (1u64 << 53) - 1;
 
 pub struct Captcha();

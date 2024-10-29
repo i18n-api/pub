@@ -5,13 +5,13 @@ edition = "2021"
 
 [dependencies]
 client = { path = "../../../rust/lib/client" }
-prost = "0.13.1"
-re = "0.1.8"
+prost = "0.13.3"
+re = "0.1.9"
 t3 = "0.1.20"
 
 [build-dependencies]
-aok = "0.1.12"
-prost-build = "0.13.1"
+aok = "0.1.15"
+prost-build = "0.13.3"
 
 [package.metadata.cargo-machete]
 ignored = ["prost"]

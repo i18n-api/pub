@@ -7,8 +7,8 @@ edition = "2021"
 [dependencies]
 click_captcha = "0.1.16"
 rand = "0.8.5"
-sonic-rs = "0.3.10"
-tokio = { version = "1.39.2", features = [
+sonic-rs = "0.3.14"
+tokio = { version = "1.41.0", features = [
   "macros",
   "rt",
   "rt-multi-thread",
@@ -16,16 +16,16 @@ tokio = { version = "1.39.2", features = [
   "sync",
 ] }
 trt = "0.1.29"
-vb = "0.1.5"
+vb = "0.1.8"
 r = { path = "../../../rust/lib/r" }
 intbin = "0.1.2"
-prost = "0.13.1"
-apart = "0.1.9"
-re = "0.1.8"
+prost = "0.13.3"
+apart = "0.1.11"
+re = "0.1.9"
 t3 = "0.1.20"
-aok = "0.1.12"
+aok = "0.1.15"
 
 # serde = { version = "1.0.193", features = ["derive"] }
 [build-dependencies]
-aok = "0.1.12"
-prost-build = "0.13.1"
+aok = "0.1.15"
+prost-build = "0.13.3"
